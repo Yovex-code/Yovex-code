@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi there 👋 I'm Alireza Yousefvand
 
-<!--
-**Yovex-code/Yovex-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Computer Engineering Student
 
-Here are some ideas to get you started:
+I'm passionate about building useful software and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focusing on:
+
+- 🐍 Python
+- ⚙️ C++
+- 🐧 Linux
+- 🌐 Computer Networks
+- 🔐 Cyber Security
+
+---
+
+## 🚀 Current Goals
+
+- Complete CEH
+- Learn SQL Server
+- Build more practical projects
+- Contribute to Open Source
+
+---
+
+## 🛠 Tech Stack
+
+- Python
+- C++
+- Linux
+- Git
+- GitHub
+- VS Code
+- VMware
+- Cisco Packet Tracer
+
+---
+
+## 📚 Currently Learning
+
+- CEH
+- SQL Server 2025
+
+---
+
+## 📫 Contact
+
+Email:
+
+aliyovexcode@gmail.com
+
+GitHub:
+
+github.com/Yovex-code
+
+LinkedIn:
+
+Coming Soon
+
+---
+
+> "Keep Learning. Keep Building."
