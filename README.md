@@ -1,49 +1,63 @@
+# Hi there 👋 I'm Alireza Yousefvand
 
-<h1 align="center">Hi, I'm Alireza Yousefvand 👋</h1>
+## 💻 Computer Engineering Student
 
-<h3 align="center">Computer Engineering Student | Aspiring Software & Database Developer</h3>
+I'm passionate about building useful software and learning new technologies.
 
-<p align="center">
-  <a href="https://github.com/Yovex-code">GitHub</a>
-  •
-  <a href="www.linkedin.com/in/alireza-yousefvand-a6616b448">LinkedIn</a>
-  •
-  <a href="mailto:aliyovexcode@gmail.com">Email</a>
-</p>
+Currently focusing on:
 
----
-
-## About Me
-
-I'm a Computer Engineering student passionate about software development, database systems, networking, and cybersecurity.
-
-I enjoy understanding how technology works, solving technical problems, and building my skills through hands-on learning.
-
-My goal is to develop strong technical foundations and grow into a capable software and database developer.
-
-## Areas of Interest
-
-- **Programming:** Python, C++
-- **Databases:** SQL, Microsoft SQL Server, Database Design
-- **Networking:** Computer Networks, Cisco Packet Tracer
-- **Systems & Security:** Linux, Cybersecurity
-- **Tools:** Git, GitHub, VS Code, VMware
-
-## Currently Learning
-
-- SQL Server and relational database design
-- Python programming and problem solving
-- Networking and cybersecurity fundamentals
-- Linux and system administration
-
-## Connect With Me
-
-- **GitHub:** [@Yovex-code](https://github.com/Yovex-code)
-- **LinkedIn:** [Alireza Yousefvand](www.linkedin.com/in/alireza-yousefvand-a6616b448)
-- **Email:** [aliyovexcode@gmail.com](mailto:aliyovexcode@gmail.com)
+- 🐍 Python
+- ⚙️ C++
+- 🐧 Linux
+- 🌐 Computer Networks
+- 🔐 Cyber Security
 
 ---
 
-<p align="center">
-  <i>Keep Learning. Keep Building.</i>
-</p>
+## 🚀 Current Goals
+
+- Complete CEH
+- Learn SQL Server
+- Build more practical projects
+- Contribute to Open Source
+
+---
+
+## 🛠 Tech Stack
+
+- Python
+- C++
+- Linux
+- Git
+- GitHub
+- VS Code
+- VMware
+- Cisco Packet Tracer
+- Network
+
+---
+
+## 📚 Currently Learning
+
+- CEH
+- SQL Server 2025
+
+---
+
+## 📫 Contact
+
+Email:
+
+aliyovexcode@gmail.com
+
+GitHub:
+
+github.com/Yovex-code
+
+LinkedIn:
+
+Coming Soon
+
+---
+
+> "Keep Learning. Keep Building."
