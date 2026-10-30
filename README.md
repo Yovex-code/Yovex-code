@@ -33,6 +33,7 @@ Currently focusing on:
 - VS Code
 - VMware
 - Cisco Packet Tracer
+- Network
 
 ---
 
