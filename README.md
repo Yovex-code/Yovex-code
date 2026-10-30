@@ -56,7 +56,7 @@ github.com/Yovex-code
 
 LinkedIn:
 
-Coming Soon
+www.linkedin.com/in/alireza-yousefvand-a6616b448
 
 ---
 
