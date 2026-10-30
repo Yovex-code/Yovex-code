@@ -1,62 +1,47 @@
 # Hi there 👋 I'm Alireza Yousefvand
 
-## 💻 Computer Engineering Student
+### 💻 Computer Engineering Student | Aspiring Software & Database Developer
 
-I'm passionate about building useful software and learning new technologies.
+I'm passionate about technology, software development, and understanding how computer systems work.
 
-Currently focusing on:
+I enjoy exploring different areas of technology, solving technical problems, and turning what I learn into practical skills.
 
-- 🐍 Python
-- ⚙️ C++
-- 🐧 Linux
-- 🌐 Computer Networks
-- 🔐 Cyber Security
+### 🎯 Areas of Interest
 
----
-
-## 🚀 Current Goals
-
-- Complete CEH
-- Learn SQL Server
-- Build more practical projects
-- Contribute to Open Source
+- 🐍 Python & C++ Programming
+- 🗄️ SQL & Database Development
+- 🌐 Computer Networking
+- 🔐 Cybersecurity
+- 🐧 Linux & System Administration
 
 ---
 
-## 🛠 Tech Stack
+### 🛠️ Technologies & Tools
 
-- Python
-- C++
-- Linux
-- Git
-- GitHub
-- VS Code
-- VMware
-- Cisco Packet Tracer
-- Network
+**Programming:** Python, C++
+
+**Databases:** SQL, Microsoft SQL Server
+
+**Systems & Networking:** Linux, VMware, Cisco Packet Tracer
+
+**Development Tools:** Git, GitHub, VS Code
 
 ---
 
-## 📚 Currently Learning
+### 📚 Currently Learning
 
-- CEH
-- SQL Server 2025
+- SQL Server & Database Design
+- Python Programming
+- Networking & Cybersecurity
+- Linux Administration
 
 ---
 
-## 📫 Contact
+### 📫 Connect With Me
 
-Email:
-
-aliyovexcode@gmail.com
-
-GitHub:
-
-github.com/Yovex-code
-
-LinkedIn:
-
-Coming Soon
+- **Email:** aliyovexcode@gmail.com
+- **GitHub:** [Yovex-code](https://github.com/Yovex-code)
+- **LinkedIn:** [Alireza Yousefvand](YOUR_LINKEDIN_URL)
 
 ---
 
