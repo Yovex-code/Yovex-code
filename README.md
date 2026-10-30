@@ -41,7 +41,7 @@ I enjoy exploring different areas of technology, solving technical problems, and
 
 - **Email:** aliyovexcode@gmail.com
 - **GitHub:** [Yovex-code](https://github.com/Yovex-code)
-- **LinkedIn:** [Alireza Yousefvand](YOUR_LINKEDIN_URL)
+- **LinkedIn:** [Alireza Yousefvand](https://www.linkedin.com/in/alireza-yousefvand-a6616b448/)
 
 ---
 
